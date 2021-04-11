@@ -1,10 +1,10 @@
-### Hi there 👋
+### Halo Tod 😎
 
-<!--
-**SyborgSyndicate/SyborgSyndicate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-.                  ‎‎‎‎‎‎‎‎```Official Syborg Syndicate```
-                                "Virtual *World* Art"
+
+
+.                  ‎‎‎‎‎‎‎‎```(•) Official Syborg Syndicate
+                      ‎‎‎‎‎‎‎‎ Virtual World Art‎‎‎‎‎‎‎‎```
 
 💻IT Cyber Security Indonesian
 
