@@ -3,8 +3,8 @@
 
 
 
-.                  ‎‎‎‎‎‎‎‎```Official Syborg Syndicate
-                      ‎‎‎‎‎‎‎‎ Virtual World Art‎‎‎‎‎‎‎‎```
+.                  ‎‎‎‎‎‎‎‎```Official Syborg Syndicate```
+                      ‎‎‎‎‎‎‎‎ ```Virtual World Art‎‎‎‎‎‎‎‎```
 
 💻IT Cyber Security Indonesian
 💻
