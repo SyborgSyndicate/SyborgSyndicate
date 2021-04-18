@@ -17,4 +17,4 @@ Github : https://github.com/SyborgSyndicate
 Youtube : -
 Forum : https://chat.whatsapp.com/GXGOcikkJhnD4mBOjyrUc1
 
-```We are not as great as you```
+```(•) We are not as great as you```
