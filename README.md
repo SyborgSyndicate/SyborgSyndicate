@@ -3,7 +3,7 @@
 
 
 
-.                  ‎‎‎‎‎‎‎‎```(•) Official Syborg Syndicate
+.                  ‎‎‎‎‎‎‎‎```Official Syborg Syndicate
                       ‎‎‎‎‎‎‎‎ Virtual World Art‎‎‎‎‎‎‎‎```
 
 💻IT Cyber Security Indonesian
@@ -17,4 +17,4 @@ Github : https://github.com/SyborgSyndicate
 Youtube : -
 Forum : https://chat.whatsapp.com/GXGOcikkJhnD4mBOjyrUc1
 
-```(•) We are not as great as you```
+```We are not as great as you```
