@@ -21,7 +21,7 @@ Youtube : -
 Forum : https://chat.whatsapp.com/GXGOcikkJhnD4mBOjyrUc1
 
 ```We are not as great as you```
-### Visitor🔥
+### Visitor & Github Stats🔥
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SyborgSyndicate)
 
