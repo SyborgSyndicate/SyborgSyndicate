@@ -21,12 +21,6 @@ Youtube : -
 Forum : https://chat.whatsapp.com/GXGOcikkJhnD4mBOjyrUc1
 
 ```We are not as great as you```
-### Visitor & Github Stats🔥
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SyborgSyndicate)
-
-![H-Nut GitHub stats](https://github-readme-stats.vercel.app/api?username=SyborgSyndicate&theme=dark&show_icons=true)
-
 
 ### The language I learned🔥
 
@@ -47,3 +41,9 @@ Forum : https://chat.whatsapp.com/GXGOcikkJhnD4mBOjyrUc1
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+
+### Visitor & Github Stats🔥
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SyborgSyndicate)
+
+![H-Nut GitHub stats](https://github-readme-stats.vercel.app/api?username=SyborgSyndicate&theme=dark&show_icons=true)
