@@ -17,3 +17,5 @@ Youtube : -
 Forum : https://chat.whatsapp.com/GXGOcikkJhnD4mBOjyrUc1
 
 ```We are not as great as you```
+###Visitor
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xN5-Gans.xN5Gans)
