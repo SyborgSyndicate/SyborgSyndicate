@@ -57,3 +57,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SyborgSyndicate)
 
 ![H-Nut GitHub stats](https://github-readme-stats.vercel.app/api?username=SyborgSyndicate&theme=dark&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyborgSyndicate&layout=compact" height=180 />
+</p>
