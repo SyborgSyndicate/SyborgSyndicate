@@ -52,7 +52,7 @@
 <br />
 
 
-### Visitor & Github Stats🔥
+### Visitor & Github Stats🚀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SyborgSyndicate)
 
