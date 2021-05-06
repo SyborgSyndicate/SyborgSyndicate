@@ -1,5 +1,12 @@
 # SyborgCate 😎
 
+### Logo 💢
+<p align="center">
+  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
+     <img alt="SyborgSyndicate/SyborgSyndicate" height="60%" width="100%" src="Screenshot_2021-05-06-09-51-51-99.jpg"/>
+  </a>
+</p>
+
 
 
 
